@@ -1,0 +1,7 @@
+Results:
+Overall Accuracy: 58.93%
+Pairwise Accuracy: 26.79%
+F1 Score: 0.58
+Vulnerable in Before: 29, Non-Vulnerable in After: 37
+Total Samples Considered: 112
+Correct Pairs: 15, Total Pairs: 56
